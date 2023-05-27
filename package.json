@@ -6,12 +6,14 @@
   "main": "index.js",
   "scripts": {
     "dev": "node index.js",
-    "apitts":"node texttospeech.js"
+    "copy": "node index-copy.js",
+    "apitts": "node texttospeech.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.2",
     "@google-cloud/text-to-speech": "^4.2.2",
     "openai": "^3.2.1"
   }
