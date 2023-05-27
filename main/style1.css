@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'Rodger';
+    src: url('/rodger-black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'Rodger';
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-align: center;
+    margin-top: 0%;
+    font-size: 30px;
+    color: white;
+    background-color: #0A50DD;
+}
+header{
+    height: 200px;
+    display: flex;
+    margin-left: 40px;
+}
+#logogloob{
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+
+img#lady{
+    display: flex;
+    position: absolute;
+
+}
+
+/* style1.css */
+
+#microfone {
+    width: 80px;
+    height: 80px;
+    border: none;
+    background-color: #a6f355;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 1%;
+  }
+  
+  #microfone:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  #microfone:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 10px;
+    height: 30px;
+    background-color: #ffffff;
+    border-radius: 5px;
+  }
+  
+  #microfone:hover {
+    background-color: #42f660;
+  }
+  
+  
+  
+#p1{
+   
+}
