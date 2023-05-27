@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ascendant-hub-388012",
+  "private_key_id": "3d3cc9e7ce8742f3a79d24db8180b8938d3e7e83",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDZs+PvsSHP2r6P\ncUuKXnIZ4wLLWvLWAJBn/NpY1aZAROWwmnN0RCcjefSDPoFh8jwaWhB7uykkGLKR\n9M0myK4Wptxkf9HlWaeZsoMEN47rTNQak/+zSmO/ekb3Gwb2TOMPOFDca9KgPlDs\nr8+IWHBIampibQGdaoylyTBDO+iGNqcREkYcXrHUPkVtwA3veojTU6qHCgqJiug6\nfrb1jwzlo7KwUzDfoKsONyQQhPrprUnaHUtDwPZeMqT3bjfvdopgXAk1hlQwEsjq\nj1D0o3b7n0KvowcnSNssHs46p3PcJhs/iSGyH8r7Dcs+Z+yOzIB+6xDKw0KCO+zw\nx3ZdIqs1AgMBAAECggEABfOu2uYBGmVs2c+bZNpNrMsBz8z6ACNOT2WAk7atn6qy\ni+hBGU/msQfbyT3LfEHK5l6JflSA3LGHKkni1PleFxTzSBUdiDNyC1fv0IzzTZgR\nYXOj5UM2pGzDpWxZ/aBfAdLElS4meUaS4FGzLxNZ6ITuSSgZR/Q6iarNNL1dz1OA\nx7AytlWERsqDmZ0RWKnEwnA+I2IWR60Gj9S2Bf3t9H6oC8UWOndAiJiDyoZxsfUS\nXFepvQCzmZRBrfwpxvmTJYkz2THt328MnhdM27TAGTlrvGRk+NyXJA1CgKQApBLo\nbyZ/Y4AMFRKwVQ7zJPCl9QLWtybbTrebHIAkJGzsMQKBgQDsoPWb//cVTYoODbOg\nfb7DFMBkzaYrFxUwBSF0lfhjkiHEAi66K/FjEJk41JZkBjE+o5V8dmCJArwo6G3f\nFXzZrXVoo5X0t5j/cypES04eRkiK3rDefVQZEnII/1yJ/XecMrwtWTb0kB2M4H3b\nbLKiEcByx5eZAcH26R7eo4GcpQKBgQDrhkv4lOOKn2FT00FDFX1q6p3n3yYgaypI\nP8Fdj/6u+wz7TLeOTgfLLHAbcwyGwfEWDFe32MebAIrFmxQ9r2Im16RQJRkwu9FT\n28cSBLk1tQO2TpZzfrDtTN/yybRjVxWUuSfj4Yt9x/LLEMGRarZVfeBlXOw7Avil\nZXT+X22/UQKBgQDFg9V/0bi832xNLsKxRETnMXsmqUH61dmpq56xYj1jX6cvpWK7\no9JpjoFXHpwqAcE5N/KfYXBS7SWCQAD2JUmBqXhHT8Tr8BSVpduyBem++4ux3xBj\nptl71Bm7yOvFgv1ENFU+xSlKGsGPxhNIBQNWpNqu9EtmPEFbiFtsG68kwQKBgQDl\nHe4F0oFQNx+tNhOEuQEa40XdbT1fyCCHzE3FQPEXM+47ATSHYO0//ujIKzGCXmSz\neCpVFLOI3Awjk2srXtPyyVB1DsHkoLFQDLspkiLCVmdYEDdX/2UKVAB/5SxwfyTl\nWwGtM5pJMBvG43QKjG73185VjQHZnlhYPcyEMD1JIQKBgQDrASnbuKzb73So7tOe\n55T2AXHUD3myHEtmbl65177le5cFEiSWXT2gOE5S++ixG6ftFcMKVmq5FCHPeoPH\nkHCOsGuEUk0Sk1gOSF6rpVtNxUjkOna130AbVqRKtRWEevp78uiqe28qUMtXXtdE\nzTqJT2Ca/h/ImRhyTFkkTKIFxQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hacka-2023@ascendant-hub-388012.iam.gserviceaccount.com",
+  "client_id": "112288212350516998974",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hacka-2023%40ascendant-hub-388012.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
