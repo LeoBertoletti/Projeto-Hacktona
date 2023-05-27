@@ -1,16 +1,18 @@
 {
   "name": "projeto",
   "version": "1.0.0",
-  "type": "module",
+  "type": "commonjs",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "apitts":"node texttospeech.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/text-to-speech": "^4.2.2",
     "openai": "^3.2.1"
   }
 }
