@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Rodger';
+    src: url('/rodger-black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'Rodger';
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-align: center;
+    margin-top: 16%;
+    font-size: 50px;
+    color: white;
+}
+#container{
+    background-image: url("/GLOOB/jpgs/Group\ 1\ 1.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 12%;
+   
+}
+
+#start{
+    height: 60px;
+    width: 300px;
+    border-radius: 20px;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    border-color: #000000;
+    margin-top: -15%;
+    background-color: #C0FC2E;
+    cursor: pointer;
+    border: none;
+}
+
+#logo{
+    margin-top: -11%;
+    width: 20vw;
+    height: 7vw;
+
+}
+
+#P1{
+    margin-top: 0%;
+    font-size: 80px;
+    margin: 10px;
+}
+
+#P2{
+    margin-top: 2%;
+}
+
+#play{
+    height: 27px;
+    width: 23px;
+}
+
